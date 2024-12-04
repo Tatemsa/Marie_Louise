@@ -1,0 +1,11 @@
+source step_1_create_database.sql;
+source step_2_create_user_table.sql;
+source step_3_create_rooms_table.sql;
+source step_4_create_service_table.sql;
+source step_5_create_event_table.sql;
+source step_6_create_booking_table.sql;
+source step_7_create_equipment_table.sql;
+source step_8_create_equipment_room_table.sql;
+source step_9_create_notice_table.sql;
+source step_10_create_post_table.sql;
+source load_demo_data.sql;
